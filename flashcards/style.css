@@ -40,7 +40,7 @@ cartao__conteudo {
   }
   
   .cartao__conteudo h3 {
-    background-color:azure;
+    background-color:rgb(165, 95, 240);
     text-align: left;
     padding: 0.5rem;
   }
